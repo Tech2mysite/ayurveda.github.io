@@ -1,6 +1,6 @@
-# Project Name
+# Ayurveda Consultancy
 
-Welcome to the official repository for [Project Name]!
+Welcome to the official repository for [Ayurveda Consultancy]!
 
 ## Description
 
